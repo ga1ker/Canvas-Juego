@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(45, 45, 45);
+    display: grid;
+    place-items: center;
+    margin-top: 20px;
+}
+
+.canva{
+    border: solid red 1px;
+}
